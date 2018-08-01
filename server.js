@@ -7,7 +7,6 @@ var passport = require('passport');
 var session = require('express-session');
 var bodyParser = require('body-parser');
 var exphbs = require('express-handlebars');
-// newshit
 
 // For Express
 var app = express();
